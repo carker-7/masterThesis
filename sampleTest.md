@@ -2,6 +2,11 @@
 
 Here the result of the sample size testing is presented. The data values were collected once every second for both the 6 minute and  the 60 minute test. Thus the average values are of 360 values and 3600 values respectively. All tables are ordered by the rightmost difference column in descending order.
 
+
+IA = Interface Adapter
+
+DB = Database
+
 ## CPU values
 
 ### CPU values of server C2A processes
