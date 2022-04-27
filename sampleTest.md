@@ -1,4 +1,6 @@
-Here the result of the sample size testing is presented. The data values were collected once every second for both the 6 minute and  the 60 minute test. Thus the average values are of 360 values and 3600 values respectively. The tables are ordered by the rightmost difference column in descending order.
+# Sample size testing
+
+Here the result of the sample size testing is presented. The data values were collected once every second for both the 6 minute and  the 60 minute test. Thus the average values are of 360 values and 3600 values respectively. All tables are ordered by the rightmost difference column in descending order.
 
 ## CPU values
 
