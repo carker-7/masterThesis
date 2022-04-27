@@ -154,7 +154,6 @@ When testing this workload model the scenario and sensors were running. The work
 
 |  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
 |-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
-| Process | Java | Avg CPU | Max CPU  | Avg MEM | Max MEM    |
 |Process42A	|	|	25,2842	|36,67	|1,091	|1,091     |
 |Process43	|	|	5,04153	|10|	0,114|	0,114     |
 |Mux5B	|	X|	1,57316	|83,33|	2,4921|	2,737     |
