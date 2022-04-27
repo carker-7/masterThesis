@@ -4,6 +4,12 @@
 Here the result of the workload model testing is presented. The data values were collected once every second for the duration of 6 minutes. Thus the average values are of 360 values. The top 10 processes when it comes to the average CPU value are included in each table. All tables are also ordered by the largest average CPU value.
 
 
+
+IA = Interface Adapter
+
+DB = Database
+
+
 ## Workload model ID 0
 The first workload model contains zero air targets and zero sea targets, and it was tested without any scenario or sensors running. It is only a measurement of the system being booted up.
 
