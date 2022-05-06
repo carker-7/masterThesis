@@ -64,7 +64,7 @@ The first workload model contains zero air targets and zero sea targets, and it 
 
 |  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
 |-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
-|Process42A	|	|	23,3215|	30|	1,087|	1,087     |
+|Simulator1	|	|	23,3215|	30|	1,087|	1,087     |
 |Process44|		X|	0,585912|	6,667	|2,801	|2,801     |
 |Mux5B	|	X|	0,455774|	6,667|	2,362	|2,362     |
 |Process39B	|	X|	0,24994|	13,33	|2,79608	|2,802     |
@@ -154,7 +154,7 @@ When testing this workload model the scenario and sensors were running. The work
 
 |  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
 |-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
-|Process42A	|	|	25,2842	|36,67	|1,091	|1,091     |
+|Simulator1	|	|	25,2842	|36,67	|1,091	|1,091     |
 |Process43	|	|	5,04153	|10|	0,114|	0,114     |
 |Mux5B	|	X|	1,57316	|83,33|	2,4921|	2,737     |
 |Process44	|	X|	1,35367|	50	|3,39294	|3,394     |
@@ -245,7 +245,7 @@ When testing this workload model the scenario and sensors were running. The work
 
 |  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
 |-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
-|Process42A	|	|	37,8856	|80	|1,091|	1,091    |
+|Simulator1	|	|	37,8856	|80	|1,091|	1,091    |
 |Process43	|	|	2,11161	|6,667|	0,122|	0,122    |
 |Process44|		X|	1,38015	|6,667	|3,52164|	3,525    |
 |Mux5B	|	X|	0,87021|	6,667|	2,51706	|2,528    |
@@ -336,7 +336,7 @@ When testing this workload model the scenario and sensors were running. The work
 
 |  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
 |-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
-|Process42A	|	|	49,4985|	113,3|	1,091|	1,091    |
+|Simulator1	|	|	49,4985|	113,3|	1,091|	1,091    |
 |Process43	|	|	2,35706|	10|	0,125|	0,125    |
 |Process44|		X|	1,32932	|13,33|	3,57009|	3,579    |
 |Mux5B	|	X|	0,742301|	6,667|	2,535|	2,535    |
@@ -428,7 +428,7 @@ When testing this workload model the scenario and sensors were running. The work
 
 |  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
 |-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
-|Process42A	|	|	60,7825	|113,3	|1,091|	1,091    |
+|Simulator1	|	|	60,7825	|113,3	|1,091|	1,091    |
 |Process43	|		|2,71011	|6,667|	0,132|	0,132    |
 |Process44|		X|	0,888356|	10	|3,59878|	3,601    |
 |Mux5B	|	X|	0,708782|	6,667|	2,539|	2,539    |
@@ -520,7 +520,7 @@ When testing this workload model the scenario and sensors were running. The work
 
 |  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
 |-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
-|Process42A	|	|	72,4031|	113,3|	1,091|	1,091    |
+|Simulator1	|	|	72,4031|	113,3|	1,091|	1,091    |
 |Process43	|	|	2,62132	|6,667|	0,138|	0,138    |
 |Process44	|	X|	0,947291|	6,667|	3,6192|	3,62    |
 |Mux5B	|	X|	0,646779|	13,33|	2,54191|	2,542    |
@@ -612,7 +612,7 @@ When testing this workload model the scenario and sensors were running. The work
 
 |  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
 |-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
-|Process42A	|	|	83,1085|	113,3|	1,09292	|1,094    |
+|Simulator1	|	|	83,1085|	113,3|	1,09292	|1,094    |
 |Process43	|	|	2,56346|	10	|0,145	|0,145    |
 |Process44|	X|	0,664377|	3,333|	3,8715	|3,877    |
 |Mux5B	|	X|	0,595686	|6,667|	2,542|	2,542    |
@@ -705,7 +705,7 @@ When testing this workload model the scenario and sensors were running. The work
 
 |  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
 |-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
-|Process42A	|	|	107,829	|113,3|	1,094	|1,094    |
+|Simulator1	|	|	107,829	|113,3|	1,094	|1,094    |
 |Process43	|	|	2,31738	|6,667|	0,165|	0,165    |
 |Mux5B	|	X|	0,570818|	6,667|	2,638|	2,638    |
 |Process44	|	X|	0,570262|	6,667	|3,99505	|3,997    |
