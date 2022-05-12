@@ -740,3 +740,92 @@ When testing this workload model the scenario and sensors were running. The work
 |Mux6B	|	|	0|	0	|0,011|	0,011    |
 |Process45|		|	0|	0|	0,014|	0,014    |
 |Process46	|	|	0	| 0|	0,015|	0,015    |
+
+
+## Workload model ID 8
+When testing this workload model the scenario and sensors were running. The workload consisted of 1000 air targets and 1000 sea targets. This is an increase of the set maximum workload of the MTS.
+
+
+### Server C2A processes
+
+|  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
+|-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
+|IA5|	X|	101,547|	120	|0,603917|	0,605|
+|Process12|	X	|27,8717	|393,3|	0,933797|	0,934|
+|IA4	|X	|23,4696|	343,3|	0,650636	|0,654|
+|Process7C|	X	|15,8775	|1643|	0,915189|	0,925|
+|Mux1|	X	|15,7172|	66,67|	0,607	|0,607|
+|IA2|	X	|14,2371	|93,33|	0,531|	0,531|
+|Process6B	|X	|11,8348|	120	|0,987256	|0,988|
+|Process6D|	X	|6,83332	|70	|0,654178	|0,655|
+
+
+
+### Server C2B processes
+
+|  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
+|-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
+|Process16A	|X	|3,92463	|60	|0,614344|	0,615|
+|Process18	|X|	3,19458	|20|	0,644103|	0,645|
+|Mux2B|	X	|0,645708	|6,667	|0,520289	|0,521|
+|Process17	|X	|0,415442	|6,667	|0,532247	|0,533|
+
+
+### Server SSA processes
+
+|  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
+|-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
+|Process32	|X	|3,57033	|33,33	|3,131	|3,131|
+|Process31C	|X	|1,83093|	200|	9,27116|	9,455|
+|Mux4B|	X	|1,57279|	6,667|	3,122|	3,122|
+|DB7	|X	|0,598228|	6,667	|5,458|	5,458|
+|Process31B	|X	|0,294186|	3,333	|1,688|	1,688|
+|Process31A	|	|0,174125|	6,452|	1,413|	1,413|
+|DB10|	|	0,174125	|3,333	|7,63|	7,63|
+|DB8	|X	|0,128725|	3,333|	2,691|	2,691|
+|DB9|	|	0,0916917	|3,333|	1,289	|1,289|
+|Process34	|	|0,0459944	|3,333	|0,033|	0,033|
+
+
+
+### Server SSB processes
+
+|  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
+|-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
+|Simulator1	|	|110,671|	116,7	|1,141	|1,141|
+|Process43|		|3,0574	|9,677|	0,178|	0,178|
+|Mux5B|	|	0,647492|	6,667	|2,723	|2,723|
+|Process44	|X	|0,536392	|6,667	|3,76446|	3,765|
+|Process41	|	|0,193831|	3,333|	0,04|	0,04|
+|Process39B	|X	|0,0462917	|3,333	|2,953|	2,953|
+|Process39A	|	|0	|0	|0,024	|0,024|
+|Mux5A|	|	0	|0	|0,023|	0,023|
+|Process38|	X	|0	|0|	0,031	|0,031|
+
+
+
+### Node A processes
+
+|  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
+|-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
+|C2MMI	|X	|120,234	|330	|12,65	|12,65|
+|Process24|		|5,88064	|13,33|	0,758	|0,758|
+|Process25	|	|3,35968|	6,667	|0	|0|
+|Process26|	|	1,99448	|6,667	|0,468	|0,468|
+|Mux3	|	|1,51185|	6,667	|1,884	|1,884|
+|Process23	|X	|0	|0|	0,015	|0,015|
+
+
+
+### Node B processes
+
+|  Process  | Java |  Average %CPU | Max %CPU | Average %MEM | Max %MEM | 
+|-----------|:----:|:-------------:|:--------:|:------------:|:--------:|
+|SSMMI|	X	|98,6116	|296,8|	10,4	|10,4|
+|Process47|	|	6,39294	|10|	0,76	|0,76|
+|Process48|	|4,29559	|6,667	|0	|0|
+|Process49|	|	1,93118|	6,667|	0,455|	0,455|
+|Mux6A|X|		1,27321	|6,667|	1,726|	1,726|
+|Mux6B	|	|0	|0|	0,011|	0,011|
+|Process45	|	|0|0	|0,015|	0,015|
+|Process46|	|	0|	0|	0,014|	0,014|
